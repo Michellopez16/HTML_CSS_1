@@ -1,0 +1,19 @@
+h1 {
+    color: orange;
+}
+
+p {
+    color: white;
+    background-color: #33a4bf
+}
+
+#intro {
+    color: #a037d8;
+    background-color: cornsilk;
+}
+
+.first {
+    font-size: 200%;
+    color: black;
+    background-color:deeppink;
+}
